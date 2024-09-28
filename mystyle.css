@@ -118,7 +118,7 @@ h4{
 }
 
 h5{
-    margin: 10px 10px;
+    margin-bottom: 1px;
     font-size: 25px;
     font-family: SUSE;
     margin-left: 230px;
@@ -134,7 +134,7 @@ h5{
 }
 
 .game{
-    margin: 10px 10px;
+    margin-top: 0px;
     margin-bottom: 20px;
     display: flex;
     align-items: center;
@@ -157,6 +157,7 @@ h5{
     margin-bottom: 10px;
 }
 
-.blue-text {
+.blue-text{
     color: #567c8d;
 }
+
