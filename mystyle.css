@@ -39,7 +39,14 @@ nav ul li{
 }
 
 nav ul li a{
-    font-size: 1.1em;
+    text-decoration: none;
+    color: #162a40;
+    font-size: 1.5em;
+    transition: color o.3s ease;
+}
+
+nav ul li a:hover{
+    color: #c0d3e4;
 }
 
 table{
@@ -160,4 +167,3 @@ h5{
 .blue-text{
     color: #567c8d;
 }
-
